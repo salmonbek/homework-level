@@ -1,0 +1,43 @@
+img {
+  width: 300px;
+}
+
+button {
+  background-color: blue;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 300px;
+}
+
+.section-1 {
+  background-color: black;
+}
+
+.section-1 h1 {
+  color: white;
+  text-align: center;
+  font-size: 50px;
+}
+
+span {
+  color: yellow;
+}
+
+p {
+  font-size: 20px;
+  color: blue;
+}
+
+button {
+  margin-right: 20px;
+}
+
+a {
+  color: tomato;
+  font-size: 30px;
+  display: inline-block;
+  margin-top: 20px;
+}
