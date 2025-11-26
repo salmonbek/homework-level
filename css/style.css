@@ -50,3 +50,10 @@ a {
   width: 400px;
   height: 400px;
 }
+
+.round {
+  width: 400px;
+  height: 400px;
+  background-color: red;
+  border-radius: 50%;
+}
